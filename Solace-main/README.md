@@ -10,6 +10,9 @@ We did a lot of research and hard work to tailor in some very useful features in
 # Home Page  <br></br>
 
 ![image](https://user-images.githubusercontent.com/73026322/185738194-22ec61f8-9181-412c-bff4-39f7b88445d3.png)<br></br>
+By Clicking on make an appointment button you will be redirect to diffrent page where you can enter your details and book the appointment with our trusted doctors.<br></br>
+![image](https://user-images.githubusercontent.com/73026322/185738736-64094947-2b13-4de0-8be2-afb9b75eb5ec.png)<br></br>
+This section 
 ![image](https://user-images.githubusercontent.com/73026322/185738270-d41880b0-c9b7-494a-820b-84b54624bb94.png)<br></br>
 ![image](https://user-images.githubusercontent.com/73026322/185738280-8933a6a7-4e4d-4749-95f8-baab60f1ffca.png)
 
