@@ -19,10 +19,10 @@ We did a lot of research and hard work to tailor in some very useful features in
 
 ![image](https://user-images.githubusercontent.com/73026322/185738354-b6b90eb4-9909-44e5-b55e-c69934501428.png)<br></br>
 
-Here by clicking on lets go you will be redirected to various videos , playlist and community where you can interact and socialize. 
+Here by clicking on lets go you will be redirected to various videos , playlist and community where you can interact and socialize. <br></br>
 ![image](https://user-images.githubusercontent.com/73026322/185738388-70317587-b083-4a7f-a973-168cf3621f88.png)<br></br>
 
-You can chat with the AI Bot to resolve any issue.
+You can chat with the AI Bot to resolve any issue.<br></br>
 ![image](https://user-images.githubusercontent.com/73026322/185738424-e7038b47-c1e7-49fa-83ed-889abc7d64fe.png)
 
 
