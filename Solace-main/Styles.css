@@ -1,0 +1,55 @@
+body::before {
+  display: block;
+  content: '';
+  height: 60px;
+  background-color: #242728
+}
+
+
+
+@media (min-width: 768px) {
+  .news-input {
+    width: 50%;
+  }
+}
+#session{
+  background-color: #FFE3E3;
+}
+#learn{
+  background-color:  #64C9CF;
+}
+.lead{
+  color:black;
+}
+.hd{
+  color: black;
+}
+#showcase{
+  background-color: #64C9CF;
+}
+#Activity{
+  background-color:#FFC947;
+}
+#mag{
+  background-color: #0A1931
+}
+#abt{
+  background-color:#FFC947;
+}
+#music{
+  background-color:#FFE3E3 ;
+}
+#team{
+  background-color:#64C9CF;
+}
+#yt{
+  background-color:#87A7B3;
+}
+.cp{
+  color:white;
+}
+#tm{
+  color: white;
+  font-size: bold;
+  text-align: center;
+}
